@@ -149,7 +149,7 @@ def add_predictions(input_data):
 
 def main():
     st.set_page_config(
-        page_title="Breast Cancer Predictor",
+        page_title="ONCOSMART",
         page_icon=":female-doctor:",
         layout="wide",
         initial_sidebar_state="expanded"
